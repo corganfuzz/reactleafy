@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2c3e5c6-5b9d-4ebc-803f-0ffbc884489d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App.jsx" afterPath="$PROJECT_DIR$/App.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,10 +42,6 @@
                 <element signature="e#0#41#0" expanded="true" />
                 <marker date="1481097438955" expanded="true" signature="407:414" ph="—" />
                 <marker date="1481097438955" expanded="true" signature="424:430" ph="©" />
-                <marker date="1481097438955" expanded="true" signature="636:972" ph="{...}" />
-                <marker date="1481097438955" expanded="true" signature="998:1232" ph="{...}" />
-                <marker date="1481097438955" expanded="true" signature="1275:1340" ph="{...}" />
-                <marker date="1481097438955" expanded="true" signature="1362:1506" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -196,12 +190,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481071842396</updated>
-      <workItem from="1481071843695" duration="12707000" />
+      <workItem from="1481071843695" duration="13126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12707000" />
+    <option name="totallyTimeSpent" value="13126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1312" y="0" width="1230" height="1398" extended-state="0" />
@@ -293,10 +287,6 @@
             <element signature="e#0#41#0" expanded="true" />
             <marker date="1481097438955" expanded="true" signature="407:414" ph="—" />
             <marker date="1481097438955" expanded="true" signature="424:430" ph="©" />
-            <marker date="1481097438955" expanded="true" signature="636:972" ph="{...}" />
-            <marker date="1481097438955" expanded="true" signature="998:1232" ph="{...}" />
-            <marker date="1481097438955" expanded="true" signature="1275:1340" ph="{...}" />
-            <marker date="1481097438955" expanded="true" signature="1362:1506" ph="{...}" />
           </folding>
         </state>
       </provider>
